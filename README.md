@@ -9,7 +9,7 @@
 
 - Live web-app link : [Site Preview](https://d3tg70co7150ia.cloudfront.net/)
 
-- Source code of above deployed web-app: [source code](https://d3tg70co7150ia.cloudfront.net/)
+- Source code of above deployed web-app: [source code](https://github.com/jupinsimform/lms-React-5/tree/Practical-5)
 
 # AWS S3
 
@@ -67,7 +67,7 @@
 - Edit the Block public access and in that uncheck the `Block all public access`.
 - keep rest of the configuration as it is.
 
-- ![public access](./assets/Enable%20public%20access.png)
+  ![public access](./assets/Enable%20public%20access.png)
 
 - After Creating bucket page looks like this
 
